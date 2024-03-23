@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(15 23 42);
+    
+}
+
+
+* {
+    color: #fff;
+    /* color: black !important; */
+}
+
+#update {
+    display: none;
+}
